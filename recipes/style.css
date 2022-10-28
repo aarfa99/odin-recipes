@@ -3,9 +3,23 @@ body{
     display: flex;
     flex-direction: column;
 }
+ 
+.aloomatar{
+    background-image: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https://public-assets-ucg.meredithcorp.io/9b999a537b7946e0cef08c0301846182/3469480.jpg&q=60&c=sc&orient=true&poi=auto&h=512);
+    background-size: cover;
+}
 
+.saagpaneer{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farindianrestaurant.co.nz%2Fwp-content%2Fuploads%2F2020%2F07%2Fsaag-paneer.jpg&f=1&nofb=1&ipt=6e8a79a93945dac214b3ab2a317f207b7deccbe8c5c2a63dd23019239b5b9f17&ipo=images);
+    background-size: cover;
+}
+
+.pudding{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapollosugar.com%2Fwp-content%2Fuploads%2F2018%2F10%2FNutritional-Value-in-sweets-%25E2%2580%2593-Kheer.jpg&f=1&nofb=1&ipt=d6323520f856a42330919fedec30cb4eeb42de956225ec64c22e0e53af7f4a21&ipo=images);
+    background-size: cover;
+}
 h1{
-    color: darkred;
+    color: rgb(237, 130, 130);
     text-align: center;
     font-size: 80px;
     font-family: Arial, Helvetica, sans-serif;
@@ -17,13 +31,13 @@ h1{
 }
 
 h2, ul, h3{
-    color: rgb(6, 5, 19);
+    color: rgb(249, 249, 251);
     font-size: 40px;
     font-family: Calibri, Helvetica, sans-serif;
 }
 
 li, p{
-    color: black;
+    color: rgb(250, 247, 247);
     font-size: 25px;
 }
 
